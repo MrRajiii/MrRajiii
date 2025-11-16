@@ -31,16 +31,16 @@ I am proficient in the following languages, frameworks, and tools:
 
 ---
 
-### 🚀 Featured Project: Python File Organizer
+### 🚀 Featured Projects
 
-This project showcases my ability to create practical, time-saving automation tools using Python's standard library.
+This section showcases my ability to create practical, time-saving automation and cross-platform tools using modern frameworks and libraries.
 
 | Repository | Stack | Demonstrated Skills | Key Takeaway |
 | :--- | :--- | :--- | :--- |
-| **File Organizer** | Python (3.x), `os`, `shutil` | System scripting, efficient file handling, command-line utility creation. | Successfully **automates file cleanup** by dynamically organizing various file types into dedicated folders, improving system efficiency. |
+| **Whisper Transcriber App** | Python (3.x), PyQt5, whisper | Multi-threading for UI responsiveness, leveraging advanced ML models (Whisper), and creating robust desktop GUIs. | Successfully integrated a cutting-edge ML model into a responsive desktop application to solve a real-world problem (transcription). |
+| **File Organizer** | **Python (3.x), PyQt5, os, shutil** | **Desktop GUI development (PyQt5), advanced file system navigation, duplicate file detection,** and organizing files based on custom rules. | Successfully transformed a system scripting task into a user-friendly desktop application, providing efficient file management and improving system organization. |
 
 > **Action Item:** I am actively working on improving the **File Organizer** README to include a visual demo and clearer setup instructions.
-
 ---
 
 ### 📈 Current Learning Focus & Goals
