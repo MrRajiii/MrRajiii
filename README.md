@@ -39,8 +39,9 @@ This section showcases my ability to create practical, time-saving automation an
 | :--- | :--- | :--- | :--- |
 | **Whisper Transcriber App** | Python (3.x), PyQt5, whisper | Multi-threading for UI responsiveness, leveraging advanced ML models (Whisper), and creating robust desktop GUIs. | Successfully integrated a cutting-edge ML model into a responsive desktop application to solve a real-world problem (transcription). |
 | **File Organizer** | **Python (3.x), PyQt5, os, shutil** | **Desktop GUI development (PyQt5), advanced file system navigation, duplicate file detection,** and organizing files based on custom rules. | Successfully transformed a system scripting task into a user-friendly desktop application, providing efficient file management and improving system organization. |
+| **Flask Password Generator** | **Python (3.x), Flask, Jinja2, CSS, JavaScript** | **Web Application Development (MVC), form state retention, secure logic processing (backend), custom CSS theming, and CI/CD pipeline preparation (GitHub/PythonAnywhere deployment).** | Built and successfully deployed a fully functional, secure, and user-friendly web application, demonstrating proficiency in the full stack, from backend logic to public deployment. |
 
-> **Action Item:** I am actively working on improving the **File Organizer** README to include a visual demo and clearer setup instructions.
+> **Action Item:** I am actively working on finalizing the project documentation for the Flask Password Generator and the File Organizer projects to ensure all setup instructions and key technical highlights are clearly presented on my GitHub profile..
 ---
 
 ### 📈 Current Learning Focus & Goals
