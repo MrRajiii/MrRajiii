@@ -58,9 +58,7 @@ I am consistently dedicating time to build my skills in:
 
 My contribution graph shows my commitment to consistent, ongoing development and learning.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MrRajiii&show_icons=true&theme=vue" alt="MrRajiii's GitHub stats" />
-</p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MrRajiii&theme=dark)](https://git.io/streak-stats)
 
 ***"The best way to learn to program is by creating."***
 
