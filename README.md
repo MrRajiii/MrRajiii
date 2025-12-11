@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Raji
 
-### 👨‍💻 Undergraduate Developer | Python Automation & Cross-Platform Focus
+### 👨‍💻Developer | Python Automation & Cross-Platform Focus
 
 I am a highly motivated undergraduate focused on hands-on software development. I specialize in **Python** for backend scripting and automation, and I am actively expanding my capabilities in **Flutter** for cross-platform mobile apps and **JavaScript** for engaging web experiences. My passion is turning complex problems into clean, efficient code solutions.
 
