@@ -54,12 +54,8 @@ I am consistently dedicating time to build my skills in:
 
 ---
 
-### 📊 GitHub Activity
-
-My contribution graph shows my commitment to consistent, ongoing development and learning.
+### 📅 GitHub Activity Streak
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MrRajiii&theme=dark)](https://git.io/streak-stats)
-
-***"The best way to learn to program is by creating."***
 
 ---
