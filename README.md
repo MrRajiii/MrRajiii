@@ -53,9 +53,3 @@ I am consistently dedicating time to build my skills in:
 * **Version Control:** Practicing advanced Git workflows and contributing to open-source projects.
 
 ---
-
-### 📅 GitHub Activity Streak
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MrRajiii&theme=dark)](https://git.io/streak-stats)
-
----
