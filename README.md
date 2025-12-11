@@ -53,3 +53,7 @@ I am consistently dedicating time to build my skills in:
 * **Version Control:** Practicing advanced Git workflows and contributing to open-source projects.
 
 ---
+### 💻 Project Details
+
+![Top Language](https://img.shields.io/github/languages/top/MrRajiii/file-organizer.svg?color=blue&style=flat-square)
+---
