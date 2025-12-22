@@ -10,8 +10,7 @@ I am a highly motivated undergraduate focused on hands-on software development. 
 
 * 💼 **LinkedIn:** www.linkedin.com/in/rajian-hero-castronuevo-77b58429a
 * 📧 **Email:** rajianheroc@gmail.com
-* 🔗 **Portfolio/Website (Future):** Soon
-
+* 🔗 **Portfolio/Website (Future):** https://mrrajiii.github.io/rh.github.io/
 ---
 
 ### 🛠️ My Core Technology Stack
