@@ -1,21 +1,21 @@
-# 👋 Hi there! I'm Rajian Hero Castronuevo
+# Hi there! 👋 I'm Raji
 
-### 👨‍💻 Developer | Python Automation & Cross-Platform Focus
+### 👨‍💻Developer | Python Automation & Cross-Platform Focus
 
-I'm a highly motivated undergraduate focused on hands-on software development. I specialize in **Python** for backend scripting and automation, and I'm actively expanding my capabilities in **Flutter** for cross-platform mobile apps and **JavaScript** for engaging web experiences. My passion is turning complex problems into clean, efficient code solutions.
-
----
-
-## 🌐 Connect with Me
-
-- 💼 LinkedIn: https://www.linkedin.com/in/rajianhero
-- 📧 Email: rajianheroc@gmail.com
-- 🔗 Portfolio: https://mrrajiii.github.io/rh.github.io/
+I am a highly motivated undergraduate focused on hands-on software development. I specialize in **Python** for backend scripting and automation, and I am actively expanding my capabilities in **Flutter** for cross-platform mobile apps and **JavaScript** for engaging web experiences. My passion is turning complex problems into clean, efficient code solutions.
 
 ---
 
-## 🛠️ My Core Technology Stack
+### 🌐 Connect with Me
 
+* 💼 **LinkedIn:** www.linkedin.com/in/rajian-hero-castronuevo-77b58429a
+* 📧 **Email:** rajianheroc@gmail.com
+* 🔗 **Portfolio/Website:** https://mrrajiii.github.io/rh.github.io/
+---
+
+### 🛠️ My Core Technology Stack
+
+I am proficient in the following languages, frameworks, and tools:
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -37,14 +37,6 @@ I'm a highly motivated undergraduate focused on hands-on software development. I
 | **[File Organizer](https://github.com/MrRajiii/file-organizer)** | Python, PyQt5 | File system automation, duplicate detection | Transformed a system task into a user-friendly desktop tool |
 | **[Whisper Transcriber App](https://github.com/MrRajiii/Whisper-Transcriber-App)** | Python, PyQt5, Whisper | ML integration, multi-threading | Integrated Whisper model into a responsive transcription GUI |
 | **[Flask Password Generator](https://github.com/MrRajiii/Flask-Password-Generator)** | Python, Flask, HTML/CSS/JS | Full-stack web dev, secure logic, deployment | Built and deployed a secure password generator with custom theming |
-
----
-
-## 📌 Pinned Projects
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MrRajiii&repo=secure-python-password-manager&theme=tokyonight)](https://github.com/MrRajiii/secure-python-password-manager)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MrRajiii&repo=file-organizer&theme=tokyonight)](https://github.com/MrRajiii/file-organizer)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MrRajiii&repo=Whisper-Transcriber-App&theme=tokyonight)](https://github.com/MrRajiii/Whisper-Transcriber-App)
 
 ---
 
