@@ -1,58 +1,69 @@
-# Hi there! 👋 I'm Raji
+# 👋 Hi there! I'm Rajian Hero Castronuevo
 
-### 👨‍💻Developer | Python Automation & Cross-Platform Focus
+### 👨‍💻 Developer | Python Automation & Cross-Platform Focus
 
-I am a highly motivated undergraduate focused on hands-on software development. I specialize in **Python** for backend scripting and automation, and I am actively expanding my capabilities in **Flutter** for cross-platform mobile apps and **JavaScript** for engaging web experiences. My passion is turning complex problems into clean, efficient code solutions.
+I'm a highly motivated undergraduate focused on hands-on software development. I specialize in **Python** for backend scripting and automation, and I'm actively expanding my capabilities in **Flutter** for cross-platform mobile apps and **JavaScript** for engaging web experiences. My passion is turning complex problems into clean, efficient code solutions.
 
 ---
 
-### 🌐 Connect with Me
+## 🌐 Connect with Me
 
-* 💼 **LinkedIn:** www.linkedin.com/in/rajian-hero-castronuevo-77b58429a
-* 📧 **Email:** rajianheroc@gmail.com
-* 🔗 **Portfolio/Website (Future):** https://mrrajiii.github.io/rh.github.io/
+- 💼 LinkedIn: https://www.linkedin.com/in/rajianhero
+- 📧 Email: rajianheroc@gmail.com
+- 🔗 Portfolio: https://mrrajiii.github.io/rh.github.io/
+
 ---
 
-### 🛠️ My Core Technology Stack
-
-I am proficient in the following languages, frameworks, and tools:
+## 🛠️ My Core Technology Stack
 
 <p align="left">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge">
-    <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter Badge">
-    <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart Badge">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Badge">
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 Badge">
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge">
-    <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code Badge">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
 
 ---
 
-### 🚀 Featured Projects
+## 🚀 Featured Projects
 
-This section showcases my ability to create practical, time-saving automation and cross-platform tools using modern frameworks and libraries.
-
-| Repository | Stack | Demonstrated Skills | Key Takeaway |
-| :--- | :--- | :--- | :--- |
-| **Whisper Transcriber App** | Python (3.x), PyQt5, whisper | Multi-threading for UI responsiveness, leveraging advanced ML models (Whisper), and creating robust desktop GUIs. | Successfully integrated a cutting-edge ML model into a responsive desktop application to solve a real-world problem (transcription). |
-| **File Organizer** | **Python (3.x), PyQt5, os, shutil** | **Desktop GUI development (PyQt5), advanced file system navigation, duplicate file detection,** and organizing files based on custom rules. | Successfully transformed a system scripting task into a user-friendly desktop application, providing efficient file management and improving system organization. |
-| **Flask Password Generator** | **Python (3.x), Flask, Jinja2, CSS, JavaScript** | **Web Application Development (MVC), form state retention, secure logic processing (backend), custom CSS theming, and CI/CD pipeline preparation (GitHub/PythonAnywhere deployment).** | Built and successfully deployed a fully functional, secure, and user-friendly web application, demonstrating proficiency in the full stack, from backend logic to public deployment. |
-
-> **Action Item:** I am actively working on finalizing the project documentation for the Flask Password Generator and the File Organizer projects to ensure all setup instructions and key technical highlights are clearly presented on my GitHub profile..
----
-
-### 📈 Current Learning Focus & Goals
-
-I am consistently dedicating time to build my skills in:
-
-* **Mobile Development:** Mastering UI/UX principles and state management in **Flutter**.
-* **Web Fundamentals:** Working through tutorials and small projects in plain **JavaScript** to build a strong foundation.
-* **Version Control:** Practicing advanced Git workflows and contributing to open-source projects.
+| Repository | Stack | Skills Demonstrated | Key Takeaway |
+|------------|-------|---------------------|--------------|
+| **[Secure Python Password Manager](https://github.com/MrRajiii/secure-python-password-manager)** | Python, PyQt5 | GUI design, CRUD logic, encryption | Built a secure, cross-platform desktop app for managing credentials |
+| **[File Organizer](https://github.com/MrRajiii/file-organizer)** | Python, PyQt5 | File system automation, duplicate detection | Transformed a system task into a user-friendly desktop tool |
+| **[Whisper Transcriber App](https://github.com/MrRajiii/Whisper-Transcriber-App)** | Python, PyQt5, Whisper | ML integration, multi-threading | Integrated Whisper model into a responsive transcription GUI |
+| **[Flask Password Generator](https://github.com/MrRajiii/Flask-Password-Generator)** | Python, Flask, HTML/CSS/JS | Full-stack web dev, secure logic, deployment | Built and deployed a secure password generator with custom theming |
 
 ---
-### 💻 Project Details
 
-![Top Language](https://img.shields.io/github/languages/top/MrRajiii/file-organizer.svg?color=blue&style=flat-square)
+## 📌 Pinned Projects
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MrRajiii&repo=secure-python-password-manager&theme=tokyonight)](https://github.com/MrRajiii/secure-python-password-manager)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MrRajiii&repo=file-organizer&theme=tokyonight)](https://github.com/MrRajiii/file-organizer)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MrRajiii&repo=Whisper-Transcriber-App&theme=tokyonight)](https://github.com/MrRajiii/Whisper-Transcriber-App)
+
 ---
+
+## 📈 GitHub Stats
+
+![Rajian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MrRajiii&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MrRajiii&layout=compact&theme=tokyonight)
+
+---
+
+## 🎯 Current Learning Focus
+
+- 📱 **Mobile Development**: Mastering UI/UX and state management in Flutter
+- 🌐 **Web Fundamentals**: Building strong foundations in plain JavaScript
+- 🔧 **Version Control**: Practicing advanced Git workflows and contributing to open-source
+
+---
+
+## 🤝 Let’s Collaborate
+
+I'm always open to exciting projects, freelance opportunities, or just a good tech chat. Feel free to reach out!
+
