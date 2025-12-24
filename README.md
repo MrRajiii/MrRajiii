@@ -37,6 +37,7 @@ I am proficient in the following languages, frameworks, and tools:
 | **[File Organizer](https://github.com/MrRajiii/file-organizer)** | Python, PyQt5 | File system automation, duplicate detection | Transformed a system task into a user-friendly desktop tool |
 | **[Whisper Transcriber App](https://github.com/MrRajiii/Whisper-Transcriber-App)** | Python, PyQt5, Whisper | ML integration, multi-threading | Integrated Whisper model into a responsive transcription GUI |
 | **[Flask Password Generator](https://github.com/MrRajiii/Flask-Password-Generator)** | Python, Flask, HTML/CSS/JS | Full-stack web dev, secure logic, deployment | Built and deployed a secure password generator with custom theming |
+| **[Multi Report Generator](https://github.com/MrRajiii/multi-report-generator)** | Python, Pandas, Matplotlib | Data processing, Report automation, Visualization | Built a tool to automate complex data analysis into professional visual reports. |
 
 ---
 
