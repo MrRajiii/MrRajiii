@@ -1,6 +1,6 @@
-# Hi there! 👋 I'm Raji
+# Hi there! I'm Raji
 
-### 👨‍💻Developer | Python Automation & Cross-Platform Focus
+### Developer | Python Automation & Cross-Platform Focus
 
 I am a highly motivated undergraduate focused on hands-on software development. I specialize in **Python** for backend scripting and automation, and I am actively expanding my capabilities in **Flutter** for cross-platform mobile apps and **JavaScript** for engaging web experiences. My passion is turning complex problems into clean, efficient code solutions.
 
@@ -8,12 +8,12 @@ I am a highly motivated undergraduate focused on hands-on software development. 
 
 ### 🌐 Connect with Me
 
-* 💼 **LinkedIn:** www.linkedin.com/in/rajian-hero-castronuevo-77b58429a
-* 📧 **Email:** rajianheroc@gmail.com
-* 🔗 **Portfolio/Website:** https://mrrajiii.github.io/rh.github.io/
+*  **LinkedIn:** www.linkedin.com/in/rajian-hero-castronuevo-77b58429a
+*  **Email:** rajianheroc@gmail.com
+*  **Portfolio/Website:** https://mrrajiii.github.io/rh.github.io/
 ---
 
-### 🛠️ My Core Technology Stack
+### My Core Technology Stack
 
 I am proficient in the following languages, frameworks, and tools:
 <p align="left">
@@ -29,7 +29,7 @@ I am proficient in the following languages, frameworks, and tools:
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 | Repository | Stack | Skills Demonstrated | Key Takeaway |
 |------------|-------|---------------------|--------------|
@@ -41,18 +41,18 @@ I am proficient in the following languages, frameworks, and tools:
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 ![Rajian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MrRajiii&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MrRajiii&layout=compact&theme=tokyonight)
 
 ---
 
-## 🎯 Current Learning Focus
+## Current Learning Focus
 
-- 📱 **Mobile Development**: Mastering UI/UX and state management in Flutter
-- 🌐 **Web Fundamentals**: Building strong foundations in plain JavaScript
-- 🔧 **Version Control**: Practicing advanced Git workflows and contributing to open-source
+-  **Mobile Development**: Mastering UI/UX and state management in Flutter
+-  **Web Fundamentals**: Building strong foundations in plain JavaScript
+-  **Version Control**: Practicing advanced Git workflows and contributing to open-source
 
 ---
 
